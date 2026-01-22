@@ -17,7 +17,7 @@ Aplikasi ini menampilkan halaman login responsif, melakukan integrasi API login,
 -Pie Chart (Transaction Category)
 
 4. cara menjalankan project:
-- git clone https://github.com/username/nama-repo.git
+- git clone https://github.com/bileam/ndi-frontend-test.git
 - cd nama-repo
 - npm install
 - npm run dev ->jalankan project
