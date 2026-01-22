@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* bg-linear-to-b from-blue-500 to-blue-700 -> login */
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f2f1f5;
+}
